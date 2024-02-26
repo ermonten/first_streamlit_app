@@ -1,2 +1,3 @@
 # requirements.txt
-snowflake-conncetor-python
+#snowflake-conncetor-python
+snowflake
